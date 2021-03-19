@@ -1,0 +1,93 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:factories////PointingToDeclaration/twit-api/factories/index.html
+$dokka.location:factories/TweetFactory///PointingToDeclaration/twit-api/factories/-tweet-factory/index.html
+$dokka.location:factories/TweetFactory/TweetFactory/#/PointingToDeclaration/twit-api/factories/-tweet-factory/-tweet-factory.html
+$dokka.location:factories/TweetFactory/getListOfUsers/#kotlin.Int/PointingToDeclaration/twit-api/factories/-tweet-factory/get-list-of-users.html
+$dokka.location:models////PointingToDeclaration/twit-api/models/index.html
+$dokka.location:models/FollowRequestBody///PointingToDeclaration/twit-api/models/-follow-request-body/index.html
+$dokka.location:models/FollowRequestBody/FollowRequestBody/#kotlin.String#kotlin.String?#kotlin.String?/PointingToDeclaration/twit-api/models/-follow-request-body/-follow-request-body.html
+$dokka.location:models/FollowRequestBody/getUserIdConcerning/#/PointingToDeclaration/twit-api/models/-follow-request-body/get-user-id-concerning.html
+$dokka.location:models/FollowRequestBody/getUserNameConcerning/#/PointingToDeclaration/twit-api/models/-follow-request-body/get-user-name-concerning.html
+$dokka.location:models/FollowRequestBody/getUserNameRequesting/#/PointingToDeclaration/twit-api/models/-follow-request-body/get-user-name-requesting.html
+$dokka.location:models/SimplifiedTweet///PointingToDeclaration/twit-api/models/-simplified-tweet/index.html
+$dokka.location:models/SimplifiedTweet/SimplifiedTweet/#kotlin.String#kotlin.String#kotlin.String#models.TweetType#kotlin.String?#models.SimplifiedTweet?/PointingToDeclaration/twit-api/models/-simplified-tweet/-simplified-tweet.html
+$dokka.location:models/SimplifiedTweet/getParentTweet/#/PointingToDeclaration/twit-api/models/-simplified-tweet/get-parent-tweet.html
+$dokka.location:models/SimplifiedTweet/getText/#/PointingToDeclaration/twit-api/models/-simplified-tweet/get-text.html
+$dokka.location:models/SimplifiedTweet/getTimestamp/#/PointingToDeclaration/twit-api/models/-simplified-tweet/get-timestamp.html
+$dokka.location:models/SimplifiedTweet/getTweetId/#/PointingToDeclaration/twit-api/models/-simplified-tweet/get-tweet-id.html
+$dokka.location:models/SimplifiedTweet/getType/#/PointingToDeclaration/twit-api/models/-simplified-tweet/get-type.html
+$dokka.location:models/SimplifiedTweet/getUserId/#/PointingToDeclaration/twit-api/models/-simplified-tweet/get-user-id.html
+$dokka.location:models/SimplifiedUser///PointingToDeclaration/twit-api/models/-simplified-user/index.html
+$dokka.location:models/SimplifiedUser/SimplifiedUser/#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/twit-api/models/-simplified-user/-simplified-user.html
+$dokka.location:models/SimplifiedUser/getDisplayName/#/PointingToDeclaration/twit-api/models/-simplified-user/get-display-name.html
+$dokka.location:models/SimplifiedUser/getUserId/#/PointingToDeclaration/twit-api/models/-simplified-user/get-user-id.html
+$dokka.location:models/SimplifiedUser/getUserName/#/PointingToDeclaration/twit-api/models/-simplified-user/get-user-name.html
+$dokka.location:models/Tweet///PointingToDeclaration/twit-api/models/-tweet/index.html
+$dokka.location:models/Tweet/Tweet/#kotlin.String#kotlin.String?#kotlin.String#kotlin.String#models.TweetType#kotlin.collections.MutableList[models.SimplifiedTweet]#models.SimplifiedTweet?/PointingToDeclaration/twit-api/models/-tweet/-tweet.html
+$dokka.location:models/Tweet/getParentTweet/#/PointingToDeclaration/twit-api/models/-tweet/get-parent-tweet.html
+$dokka.location:models/Tweet/getReplies/#/PointingToDeclaration/twit-api/models/-tweet/get-replies.html
+$dokka.location:models/Tweet/getText/#/PointingToDeclaration/twit-api/models/-tweet/get-text.html
+$dokka.location:models/Tweet/getTimestamp/#/PointingToDeclaration/twit-api/models/-tweet/get-timestamp.html
+$dokka.location:models/Tweet/getTweetId/#/PointingToDeclaration/twit-api/models/-tweet/get-tweet-id.html
+$dokka.location:models/Tweet/getType/#/PointingToDeclaration/twit-api/models/-tweet/get-type.html
+$dokka.location:models/Tweet/getUserId/#/PointingToDeclaration/twit-api/models/-tweet/get-user-id.html
+$dokka.location:models/TweetType.IMAGE///PointingToDeclaration/twit-api/models/-tweet-type/-i-m-a-g-e/index.html
+$dokka.location:models/TweetType.LINK///PointingToDeclaration/twit-api/models/-tweet-type/-l-i-n-k/index.html
+$dokka.location:models/TweetType.TEXT///PointingToDeclaration/twit-api/models/-tweet-type/-t-e-x-t/index.html
+$dokka.location:models/TweetType.VIDEO///PointingToDeclaration/twit-api/models/-tweet-type/-v-i-d-e-o/index.html
+$dokka.location:models/TweetType///PointingToDeclaration/twit-api/models/-tweet-type/index.html
+$dokka.location:models/TweetType/getName/#/PointingToDeclaration/twit-api/models/-tweet-type/get-name.html
+$dokka.location:models/TweetType/getOrdinal/#/PointingToDeclaration/twit-api/models/-tweet-type/get-ordinal.html
+$dokka.location:models/User///PointingToDeclaration/twit-api/models/-user/index.html
+$dokka.location:models/User/User/#kotlin.String#kotlin.String#kotlin.String#kotlin.collections.MutableList[models.Tweet]#kotlin.collections.MutableList[models.SimplifiedUser]#kotlin.collections.MutableList[models.SimplifiedUser]/PointingToDeclaration/twit-api/models/-user/-user.html
+$dokka.location:models/User/getDisplayName/#/PointingToDeclaration/twit-api/models/-user/get-display-name.html
+$dokka.location:models/User/getFollowers/#/PointingToDeclaration/twit-api/models/-user/get-followers.html
+$dokka.location:models/User/getFollowing/#/PointingToDeclaration/twit-api/models/-user/get-following.html
+$dokka.location:models/User/getTweets/#/PointingToDeclaration/twit-api/models/-user/get-tweets.html
+$dokka.location:models/User/getUserId/#/PointingToDeclaration/twit-api/models/-user/get-user-id.html
+$dokka.location:models/User/getUserName/#/PointingToDeclaration/twit-api/models/-user/get-user-name.html
+$dokka.location:routes////PointingToDeclaration/twit-api/routes/index.html
+$dokka.location:routes/UserRouteKt///PointingToDeclaration/twit-api/routes/-user-route-kt/index.html
+$dokka.location:routes/UserRouteKt/registerUserRoutes/io.ktor.application.Application#services.v1.UserService/PointingToDeclaration/twit-api/routes/-user-route-kt/register-user-routes.html
+$dokka.location:routes/UserRouteKt/userRouting/io.ktor.routing.Route#services.v1.UserService/PointingToDeclaration/twit-api/routes/-user-route-kt/user-routing.html
+$dokka.location:services.v1////PointingToDeclaration/twit-api/services.v1/index.html
+$dokka.location:services.v1/UserService///PointingToDeclaration/twit-api/services.v1/-user-service/index.html
+$dokka.location:services.v1/UserService/createNewTweet/#kotlin.String?#kotlin.String?#kotlin.String#models.TweetType?#kotlin.String?#kotlin.String?/PointingToDeclaration/twit-api/services.v1/-user-service/create-new-tweet.html
+$dokka.location:services.v1/UserService/followUser/#kotlin.String?#kotlin.String?#kotlin.String/PointingToDeclaration/twit-api/services.v1/-user-service/follow-user.html
+$dokka.location:services.v1/UserService/getAllUsers/#/PointingToDeclaration/twit-api/services.v1/-user-service/get-all-users.html
+$dokka.location:services.v1/UserService/getFollowers/#kotlin.String?#kotlin.String?/PointingToDeclaration/twit-api/services.v1/-user-service/get-followers.html
+$dokka.location:services.v1/UserService/getOneTweet/#kotlin.String?#kotlin.String?#kotlin.String/PointingToDeclaration/twit-api/services.v1/-user-service/get-one-tweet.html
+$dokka.location:services.v1/UserService/getTweets/#kotlin.String?#kotlin.String?/PointingToDeclaration/twit-api/services.v1/-user-service/get-tweets.html
+$dokka.location:services.v1/UserService/getUser/#kotlin.String?#kotlin.String?/PointingToDeclaration/twit-api/services.v1/-user-service/get-user.html
+$dokka.location:services.v1/UserService/unfollowUser/#kotlin.String?#kotlin.String?#kotlin.String/PointingToDeclaration/twit-api/services.v1/-user-service/unfollow-user.html
+$dokka.location:services.v1/UserServiceV1///PointingToDeclaration/twit-api/services.v1/-user-service-v1/index.html
+$dokka.location:services.v1/UserServiceV1/UserServiceV1/#kotlin.String/PointingToDeclaration/twit-api/services.v1/-user-service-v1/-user-service-v1.html
+$dokka.location:services.v1/UserServiceV1/createNewTweet/#kotlin.String?#kotlin.String?#kotlin.String#models.TweetType?#kotlin.String?#kotlin.String?/PointingToDeclaration/twit-api/services.v1/-user-service-v1/create-new-tweet.html
+$dokka.location:services.v1/UserServiceV1/followUser/#kotlin.String?#kotlin.String?#kotlin.String/PointingToDeclaration/twit-api/services.v1/-user-service-v1/follow-user.html
+$dokka.location:services.v1/UserServiceV1/getAllUsers/#/PointingToDeclaration/twit-api/services.v1/-user-service-v1/get-all-users.html
+$dokka.location:services.v1/UserServiceV1/getFollowers/#kotlin.String?#kotlin.String?/PointingToDeclaration/twit-api/services.v1/-user-service-v1/get-followers.html
+$dokka.location:services.v1/UserServiceV1/getOneTweet/#kotlin.String?#kotlin.String?#kotlin.String/PointingToDeclaration/twit-api/services.v1/-user-service-v1/get-one-tweet.html
+$dokka.location:services.v1/UserServiceV1/getTweets/#kotlin.String?#kotlin.String?/PointingToDeclaration/twit-api/services.v1/-user-service-v1/get-tweets.html
+$dokka.location:services.v1/UserServiceV1/getUser/#kotlin.String?#kotlin.String?/PointingToDeclaration/twit-api/services.v1/-user-service-v1/get-user.html
+$dokka.location:services.v1/UserServiceV1/getUserCollection/#/PointingToDeclaration/twit-api/services.v1/-user-service-v1/get-user-collection.html
+$dokka.location:services.v1/UserServiceV1/unfollowUser/#kotlin.String?#kotlin.String?#kotlin.String/PointingToDeclaration/twit-api/services.v1/-user-service-v1/unfollow-user.html
+$dokka.location:twit////PointingToDeclaration/twit-api/twit/index.html
+$dokka.location:twit/ApplicationKt///PointingToDeclaration/twit-api/twit/-application-kt/index.html
+$dokka.location:twit/ApplicationKt/main/#kotlin.Array[kotlin.String]/PointingToDeclaration/twit-api/twit/-application-kt/main.html
+$dokka.location:twit/ApplicationKt/module/io.ktor.application.Application#kotlin.Boolean/PointingToDeclaration/twit-api/twit/-application-kt/module.html
+$dokka.location:utils////PointingToDeclaration/twit-api/utils/index.html
+$dokka.location:utils/AlreadyExistsException///PointingToDeclaration/twit-api/utils/-already-exists-exception/index.html
+$dokka.location:utils/AlreadyExistsException/AlreadyExistsException/#kotlin.String/PointingToDeclaration/twit-api/utils/-already-exists-exception/-already-exists-exception.html
+$dokka.location:utils/AlreadyExistsException/getCause/#/PointingToDeclaration/twit-api/utils/-already-exists-exception/get-cause.html
+$dokka.location:utils/AlreadyExistsException/getMessage/#/PointingToDeclaration/twit-api/utils/-already-exists-exception/get-message.html
+$dokka.location:utils/ModelHelpersKt///PointingToDeclaration/twit-api/utils/-model-helpers-kt/index.html
+$dokka.location:utils/ModelHelpersKt/getSimplifiedTweet/#models.Tweet/PointingToDeclaration/twit-api/utils/-model-helpers-kt/get-simplified-tweet.html
+$dokka.location:utils/ModelHelpersKt/getSimplifiedUser/#models.User/PointingToDeclaration/twit-api/utils/-model-helpers-kt/get-simplified-user.html
+factories
+models
+routes
+services.v1
+twit
+utils
+
